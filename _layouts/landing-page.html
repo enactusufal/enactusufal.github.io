@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html>
+
+  {% include /head.html %}
+
+	<body id="top">      
+        {% include /header.html %}
+
+        <div id="loader-wrapper">
+            <div id="loader"></div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+     
+        <!-- Banner -->
+        <section id="banner">
+            <div class="inner">
+                <br><br>
+                <h2>Enactus UFAL</h2>
+                <p>As palavras que movem o time Enactus UFAL são <b>Acreditar e Transformar.</b> <br> E acreditar na transformação é o que faz de nós um time: <b>o time Enactus UFAL!</b></p>
+                <br>
+            </div>  
+        </section>
+ 
+        {{ content }}
+
+        <!-- Facebook Widget on footer -->
+        <div id="fb-root"></div>
+        
+        <script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+        <!-- ### -->
+
+        <!-- Contadores: projetos, membros, horas trabalhadas -->
+        <script type="text/javascript">
+            $.fn.jQuerySimpleCounter = function( options ) {
+                var settings = $.extend({
+                    start:  0,
+                    end:    100,
+                    easing: 'swing',
+                    duration: 400,
+                    complete: ''
+                }, options );
+
+                var thisElement = $(this);
+
+                $({count: settings.start}).animate({count: settings.end}, {
+                    duration: settings.duration,
+                    easing: settings.easing,
+                    step: function() {
+                        var mathCount = Math.ceil(this.count);
+                        thisElement.text(mathCount);
+                    },
+                    complete: function() {
+                        var mathCount = this.count > settings.maxNumber ? settings.end + '+' : this.count;
+                        thisElement.text(mathCount);
+                    }
+                });
+            };
+
+            $('#number1').jQuerySimpleCounter({
+              end: {{site.quantidadeDeProjetos}},
+              duration: 3000
+            });
+            $('#number2').jQuerySimpleCounter({
+              end: {{site.quantidadeDeMembros}},
+              duration: 3000
+            });
+            $('#number3').jQuerySimpleCounter({
+              end: {{site.horasTrabalhadas}},
+              duration: 2000,
+              maxNumber: 100
+            });
+        </script>
+        <!-- #Contadores -->
+        
+        {% include /footer.html %}
+    </body>
+</html>

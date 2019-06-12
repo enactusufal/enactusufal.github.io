@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<div id="loader-wrapper">
+            <div id="loader"></div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+<!-- Main -->
+<section id="main" class="wrapper style1">
+    <header class="major">
+        <h2>{{site.nomeProjeto1}}</h2>
+        <p>{{site.descProjeto1}}</p>
+        <p>Para mais informações sobre o projeto, acesse o <object data="amitis.pdf" type="application/x-pdf" title="SamplePdf" width="500" height="720">
+    <a target="_blank" href="amitis.pdf">portfólio</a> do projeto Amitis.</p>
+</object>
+    </header>
+    <div class="container">
+        <section>
+            <a href="#" class="image fit"><img src="{{ site.baseurl }}/images/amitis/amitis-mutirao.jpg" alt="" /></a>
+            <p align="justify">{{site.descCompletaProjeto1}}</p>
+        </section>
+
+        <hr/>
+        <h3>{{site.box1TituloProjeto1}}</h3>
+        <br>     
+           
+        <div class="row">
+            <div class="6u">
+                <section class="special">
+                    <a href="#" class="image fit"><img src="{{ site.baseurl }}/images/amitis/escolar.jpeg" alt="" /></a>
+                </section>
+            </div>
+            <div class="6u">
+                <p align="justify">{{site.box1DescProjeto1}}</p>
+            </div>
+        </div>
+        
+        <hr />
+        <h3>{{site.box2TituloProjeto1}}</h3>      
+        <br>  
+
+        <div class="row">
+            <div class="6u">
+                <section class="special">
+                    <a href="#" class="image fit"><img src="{{ site.baseurl }}/images/amitis/comunitaria.jpeg" alt="" /></a>
+                </section>
+            </div>
+            <div class="6u">
+                <p align="justify">{{site.box2DescProjeto1}}</p>
+            </div>
+        </div>
+
+        <hr/>
+        <h3>{{site.box3TituloProjeto1}}</h3>       
+        <br>     
+        
+        <div class="row">
+            <div class="6u">
+                <section class="special">
+                    <a href="#" class="image fit"><img src="{{ site.baseurl }}/images//amitis/domestica.jpeg" alt="" /></a>
+                </section>
+            </div>
+            <div class="6u">
+                <p align="justify">{{site.box3DescProjeto1}}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+        
+<script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.10&appId=1163098067055391';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+</script>

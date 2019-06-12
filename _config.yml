@@ -1,0 +1,381 @@
+# Site settings
+title: Enactus UFAL
+email: enactusufal@gmail.com
+description: Site oficial do time Enactus UFAL.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: enactusufal.org # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+markdown: kramdown
+
+#Informações Quantitativas
+quantidadeDeProjetos: 2
+quantidadeDeMembros: 28
+horasTrabalhadas: 5600
+
+#Parceiros
+parceiro1: "images/parceiro_2.png"
+parceiro2: "images/parceiro_3.png"
+
+# Missão, Visão e Valores
+missao: Transformar pessoas em agentes de mudança dentro de sua realidade.
+visao: Impactar Alagoas através de projetos sustentáveis e escaláveis, promovendo crescimento pessoal e profissional dos envolvidos.
+valores: Inovação, Foco em Impacto, Transparência, Colaboratividade, Resiliência, Ética, Empatia e Comprometimento.
+
+fotoMissao: ""
+fotoVisao: ""
+fotoValores: "" 
+
+# Informações do Projeto 1
+fotoProjeto1: 
+nomeProjeto1: "Amitis"
+descProjeto1: "Projeto de Hortas Hidropônicas da Enactus UFAL"
+descResumidaProjeto1: "É um projeto do nosso time que visa à implantação de hortas hidropônicas e sustentáveis no cenário alagoano, como alternativa para um empoderamento social a partir da produção de alimentos por comunidades vulneráveis, que podem consumi-los e vendê-los."
+descCompletaProjeto1: O Amitis visa a alimentação justa e de qualidade. Através da técnica de hidroponia,levamos igualdade alimentar para os mais amplos contextos sociais. Implementando em comunidades socioeconomicamente vulneráveis em um ciclo produtivo e gerando renda. Hoje, o Amitis é um modelo no empreendedorismo social com alto potencial de replicação e fácil manuseio.
+
+box1TituloProjeto1: "Hortas Escolares"
+box2TituloProjeto1: "Hortas Comunitárias"
+box3TituloProjeto1: "Hortas em Módulos Domésticos"
+
+box1DescProjeto1: Além da educação ambiental, temos por objetivo promover a segurança alimentar desde a primeira infância. Devido a não necessidade de solo fértil, o Amitis auxilia escolas públicas de Maceió para que sejam protagonista na produção do próprio alimento. 
+box2DescProjeto1: O Amitis vê nas comunidades um grande potencial empreendedor e busca atingi-lo por meio da venda dos produtos das hortas, seja por forma de beneficiamentos como tempeiros e molhos, ou na forma natural do alimento. Gerar renda e promover acessibilidade a alaimentos de qualidade são os principais metas dessa vertente. 
+box3DescProjeto1: Para atender aos públicos mais variados, o Amitis apresenta uma linha de módulos domésticos. esses se adaptam as necessidades de cada lar, possuindo módulos que chegam a custar menos de R$0,90. Nós buscamos na produção natural de alimentos e com reuso da água.
+
+# Informações do Projeto 2
+fotoProjeto2: "https://i.imgur.com/Rd50DxS.jpg"
+nomeProjeto2: "Cromo Somos"
+descProjeto1: ""
+descResumidaProjeto2: "O Projeto Cromo Somos nasceu com o intuito de modificar a realidade de Maceió em relação à inclusão social de pessoas com a síndrome de Down. Devido à falta de orientação, informação e condições de frequentar locais com capacidade multidisciplinar e especializados em estimulação precoce, muitas dessas pessoas desacreditam da capacidade de mudança e aprimoramento de suas habilidades. "
+descCompletaProjeto2: "O Projeto Cromo Somos nasceu com o intuito de modificar a realidade de Maceió em relação à inclusão social de pessoas com a síndrome de Down. Devido à falta de orientação, informação e condições de frequentar locais com capacidade multidisciplinar e especializados em estimulação precoce, muitas dessas pessoas desacreditam da capacidade de mudança e aprimoramento de suas habilidades. 
+  Com isso, esse projeto, em parceria com a FamDown - Família Down Alagoana, busca capacitar os alunos da instituição para a sua respectiva inserção no mercado de trabalho, sendo iniciado na área da culinária com a produção e venda de biscoitos artesanais. 
+  Buscando o desenvolvimento de habilidades, respeitando as diferenças, aptidões e interesses da comunidade, o Projeto Cromo Somos impulsiona a descoberta de um mundo ainda desconhecido por muitos, o empreendedorismo."
+
+img1Projeto2: https://imgur.com/VnrpJcD.jpg
+img1DescProjeto2:
+
+img2Projeto2: https://imgur.com/DzjgKOs.jpg
+img2DescProjeto2:
+
+img3Projeto2: https://imgur.com/qK6HAl0.jpg
+img3DescProjeto2:
+
+img4Projeto2: https://imgur.com/tynP7II.jpg
+img4DescProjeto2:
+
+img5Projeto2: https://imgur.com/TW9urCp.jpg
+img5DescProjeto2:
+
+img6Projeto2: https://imgur.com/3QN0PzM.jpg
+img6DescProjeto2:
+
+img7Projeto2: https://imgur.com/cVwirVT.jpg
+img7DescProjeto2:
+
+img8Projeto2: https://imgur.com/bFy31ng.jpg
+img8DescProjeto2:
+
+
+#Página Time
+
+fotoTime: "https://i.imgur.com/GMctj65.jpg"
+
+#Descrição Inicial do Time
+
+descTimeParte1: Enactus é uma organização internacional sem fins lucrativos dedicada a inspirar os alunos a melhorar o mundo através do Empreendedorismo Social. O Brasil é um dos 36 países de operação do programa Enactus ao redor do mundo. Além disso, a Enactus consiste em uma plataforma que possibilita a criação de projetos de desenvolvimento comunitário que colocam progresso e empoderamento em foco, possibilitando a real transformação de comunidades. 
+descTimeParte2: "Somos a Enactus UFAL: um dos mais de 100 times da Enactus Brasil, e acreditamos que universitários têm a força para melhorar o mundo através da Ação Empreendedora. Nosso time possui uma estrutura organizacional com áreas de back office enxutas, objetivando a grande estruturação da área core: Projetos. Assim, a partir do diagnóstico de comunidades e identificação de suas potencialidades desenvolvemos projetos inovadores e impactantes, que permitem empoderamento efetivo da sociedade."
+
+#Descrição das áreas
+
+descPresidenciaParte1: "A diretoria de Presidência é responsável pela estratégia e representatividade do time, sendo a área composta pelos diretores: Presidente, que executa funções de representatividade pública, institucional e legal; e Vice-Presidente, que estrutura a gestão interna do time, por meio de planejamento estratégico, controle e mensurações."
+descPresidenciaParte2: "Ainda na mesma área, existem dois núcleos atrelados à Presidência e Vice-presidência, respectivamente, são eles: Pesquisa e Inovação, que busca inovações em projetos, estrutura e desenvolve novas tecnologias e é a responsável pelo desenvolvimento do Projeto WeGrowTogether, uma vez que conta com os membros com skills para o desenvolvimento computacional; e Administrativo-Jurídico-Financeiro, responsável por estruturar e manter processos internos, garantir o registro e atualização de informações, estruturar e desenvolver auditorias internas e externas."
+descMkt: A área de Marketing e Relações Públicas é responsável pela estruturação e manutenção do branding do time, expansão da marca e manutenção do bom relacionamento com parceiros.
+descGP: A diretoria de Gestão de Pessoas é responsável pela estruturação e aplicação de critérios de membresia, que mensuram resultados obtidos por membros e crescimento durante o ciclo, bem como a estruturação de processos que garantam a boa convivência em grupo e a execução de atividades com maior qualidade. Além disso, é responsável por estruturar e coordenar processos seletivos, trainees e headhuntings.
+descProjetos: "A área é responsável pela prospecção, diagnóstico, estruturação e desenvolvimento de projetos. Nela existem dois tipos de núcleos: Pesquisa e Desenvolvimento, com liderança e membros responsáveis pela prospecção de novas comunidades e estruturação de um novo projeto; Projetos, que conta com os projetos abertos após a fase de Pesquisa e Desenvolvimento: atualmente possui o Projeto Amitis." 
+descConselhoAlumni: "O conselho Alumni do time Enactus UFAL é formado por ex-membros que participaram ativamente das atividades e projetos, em pelo menos um ciclo do time. Além disso, esses membros demonstraram interesse em continuar contribuindo com o time mesmo após o excelente trabalho executado durante suas passagens pelo time e hoje atuam aconselhando os diretores estrategicamente e atuando em ações pontuais de acordo com a demanda do time."
+
+#Descrição Presidencia 
+
+nomePresidencia1: "Igor Theotônio"
+cargoPresidencia1: "Presidente"
+descPresidencia1: "23 anos, estudante de Engenharia de Computação, apaixonado por eficiência e impacto, atua representando a Organização e buscando garantir as melhores condições para o bom funcionamento dos projetos."
+fotoPresidencia1: "https://i.imgur.com/lwfPEbX.jpg"
+ttPresidencia1: ""
+fbPresidencia1: "https://www.facebook.com/igorcatheotonio"
+lkPresidencia1: "https://www.linkedin.com/in/igor-theotônio-658560140"
+isPresidencia1: "https://www.instagram.com/igortheotonio/"
+
+nomePresidencia2: "Mariana Barroca"
+cargoPresidencia2: "Vice-Presidente"
+descPresidencia2: "25 anos, estudante de Engenharia Civil, atuou na fundação do time e na Diretoria de Projetos. Atualmente desenvolve o gerenciamento estratégico, bem como a gestão do núcleo administrativo-financeiro."
+fotoPresidencia2: "https://i.imgur.com/mHIYWWV.jpg"
+ttPresidencia2: ""
+fbPresidencia2: "https://www.facebook.com/maribarroca"
+lkPresidencia2: "www.linkedin.com/in/mariana-barroca-"
+isPresidencia2: "https://www.instagram.com/maribarroca/"
+
+nomePresidencia3: "Gabriel Nunes"
+cargoPresidencia3: "Membro de Pesquisa e Inovação"
+descPresidencia3: "23 anos, estudante de Ciência da Computação, Desenvolvedor Full-Stack, promove soluções tecnológicas para os projetos."
+fotoPresidencia3: "https://i.imgur.com/CYb7grK.jpg"
+ttPresidencia3: "www.twitter.com/egabrielnunes"
+fbPresidencia3: "https://www.facebook.com/egabrielnunes"
+lkPresidencia3: "www.linkedin.com/in/egabrielnunes"
+isPresidencia3: "https://www.instagram.com/egabrielnunes/"
+
+nomePresidencia4: "Laryssa Cavalcanti"
+cargoPresidencia4: "Membro de Adm-Fin"
+descPresidencia4: "19 anos, estudante de Direito, busca por meio de seu curso e da academia auxiliar o processo de concretização da justiça social, vê na Enactus uma forma de dar dignidade às comunidades e empoderá-las."
+fotoPresidencia4: "https://i.imgur.com/2xOT7t7.jpg"
+ttPresidencia4: ""
+fbPresidencia4: "https://www.facebook.com/laryssacavalcantib/"
+lkPresidencia4: ""
+isPresidencia4: "https://www.instagram.com/laryssacavalcanti_/"
+
+#Descrição Mkt 
+
+nomeMkt1: "Thiago Paiva"
+cargoMkt1: "Diretor de Marketing e Relações Públicas"
+descMkt1: "25 anos, estudante de engenharia de computação, Diretor de Marketing e RP, escritor, compositor, cantor e apaixonado por artes."
+fotoMkt1: "https://i.imgur.com/g5T6bE8.jpg"
+ttMkt1: ""
+fbMkt1: "https://www.facebook.com/thiago.paiva.752"
+lkMkt1: ""
+isMkt1: "instagram.com/thiagopaivadeandrade"
+
+nomeMkt2: "Italo Oliveira"
+cargoMkt2: "Membro de Marketing e Relações Públicas"
+descMkt2: "27 anos, estudante de Ciência da Computação, e desenvolvedor Web no Edge e também estuda design na área de UI/UX. Acredita que sair da zona de conforto é essencial para o crescimento."
+fotoMkt2: "https://i.imgur.com/0f2gkk0.jpg"
+ttMkt2: "twitter.com/italowco"
+fbMkt2: "facebook.com/italowoliveira"
+lkMkt2: "linkedIn.com/in/italo-oloveira-8796aba1"
+isMkt2: "instagram.com/italowco"
+
+nomeMkt3: "Matheus Enrique"
+cargoMkt3: "Membro de Marketing e Relações Públicas"
+descMkt3: "20 anos, estudante de Engenharia de Computação, Desenvolvedor Full-Stack e Designer, atua na geração de conteúdo visual referente à organização e seus projetos. Acredita na mudança e no impacto que as pessoas podem causar."
+fotoMkt3: "https://i.imgur.com/vVRQv49.jpg"
+ttMkt3: ""
+fbMkt3: "https://www.facebook.com/m.enrique.alves"
+lkMkt3: "https://www.linkedin.com/in/matheusenrique/"
+isMkt3: ""
+
+#Descrição GP 
+
+nomeGP1: "Sarah Mansur"
+cargoGP1: "Diretora de Gestão de Pessoas" 
+descGP1: "21 anos, estudante de Engenharia Ambiental e Sanitária, estagiária na área de gestão de resíduos sólidos, atua na melhoria da qualidade de trabalho, motivação e envolvimento dos membros com o time."
+fotoGP1: "https://i.imgur.com/wduMALo.jpg"
+ttGP1: ""
+fbGP1: "https://www.facebook.com/sarah.mansur.3"
+lkGP1: ""
+isGP1: "https://www.instagram.com/sarahamansur/"
+
+nomeGP2: "Janielly Padilha"
+cargoGP2: "Membro de Gestão de Pessoas" 
+descGP2: "22 anos, estudante de Ciências Econômicas. Atua buscando estratégias para desenvolver a empatia entre as áreas do time bem como seus membros e atividades. Acredita que devemos ser a mudança que queremos ver no mundo."
+fotoGP2: "https://i.imgur.com/cvqB29F.jpg"
+ttGP2: "https://twitter.com/jaanpadilha"
+fbGP2: "https://www.facebook.com/janielly.padilha"
+lkGP2: "https://br.linkedin.com/in/janielly-padilha-20204b97"
+isGP2: "https://www.instagram.com/janpadilha/?hl=pt"
+
+nomeGP3: "Tainá Almeida"
+cargoGP3: "Membro de Gestão de Pessoas" 
+descGP3: "20 anos, estudante de Engenharia Civil. Atua na área de recursos humanos do Time por acreditar em cada membro e querer contribuir para aumentar o potencial dos mesmos. Seu maior medo é viver na zona de conforto."
+fotoGP3: "https://i.imgur.com/ZqlMSTw.jpg"
+ttGP3: ""
+fbGP3: "https://www.facebook.com/taina.almeida.779"
+lkGP3: ""
+isGP3: "instagram.com/tainalmeida"
+
+#Descrição Projetos 
+
+nomeProjetos1: "Caio Barbosa"
+cargoProjetos1: "Diretor de Projetos" 
+descProjetos1: "24 anos, estudante de Ciência da Computação, Desenvolvedor Java e Android, atual Diretor de Projetos da Enactus UFAL. Acredita que a melhor maneira de mudar o mundo é começar mudando as pessoas ao seu redor."
+fotoProjetos1: "https://i.imgur.com/IKwGwya.jpg"
+ttProjetos1: "https://twitter.com/guriosam"
+fbProjetos1: "https://www.facebook.com/guriosam"
+lkProjetos1: "https://www.linkedin.com/in/caio-barbosa-1065b7117/"
+isProejtos1: "https://instagram.com/guriosam" 
+
+nomeProjetos2: "Ana Ost"
+cargoProjetos2: "Líder do Projeto Cromo Somos" 
+descProjetos2: "27 anos, estudante de Engenharia Química. Encantada com a possibilidade de ser um agente de mudança  da realidade atual."
+fotoProjetos2: "https://i.imgur.com/8l6L5RM.jpg"
+ttProjetos2: ""
+fbProjetos2: "https://www.facebook.com/ana.ost.7"
+lkProjetos2: ""
+isProejtos2: "https://www.instagram.com/ana_ost/?hl=pt-br" 
+
+nomeProjetos3: "Gustavo Cavalcante"
+cargoProjetos3: "Líder do Projeto Amitis" 
+descProjetos3: "21 anos, estudante de Engenharia Civil, técnico em cerâmica vermelha, orquidófilo e vegetariano por amor. Acredita no desenvolvimento justo e igualitário da sociedade."
+fotoProjetos3: "https://i.imgur.com/q38gp6g.jpg"
+ttProjetos3: ""
+fbProjetos3: ""
+lkProjetos3: ""
+isProejtos3: "https://www.instagram.com/gustavohenriqhe/" 
+
+nomeProjetos4: "Adson Correia"
+cargoProjetos4: "Membro do Projeto Amitis" 
+descProjetos4: "21 anos, estudante de Engenharia Civil, técnico em Estradas pelo Instituto Federal de Alagoas. Cofundador do movimento unificado LGBT Stonewall Vive, acredita que o mundo pode ser mudado com pequenas atitudes."
+fotoProjetos4: "https://i.imgur.com/TfhsB8u.jpg"
+ttProjetos4: ""
+fbProjetos4: "https://www.facebook.com/adson.correia"
+lkProjetos4: ""
+isProejtos4: "https://www.instagram.com/adsoncorreia" 
+
+nomeProjetos5: "Alisson Vilela"
+cargoProjetos5: "Membro do Projeto Cromo Somos" 
+descProjetos5: "20 anos, estudante de Engenharia Química e ativista do GreenPeace. Em busca de ser um cidadão global, construindo um mundo melhor a cada dia."
+fotoProjetos5: "https://i.imgur.com/s7M63AK.jpg"
+ttProjetos5: ""
+fbProjetos5: "https://www.facebook.com/alissonvilela"
+lkProjetos5: "https://www.linkedin.com/in/alisson-vilela-joca-0a265437/"
+isProejtos5: "https://www.instagram.com/alissonvilelaa/" 
+
+nomeProjetos6: "Amanda Santos"
+cargoProjetos6: "Membro do Projeto Amitis" 
+descProjetos6: "21 anos, estudante de engenharia química e bolsista no laboratório de biotecnologia."
+fotoProjetos6: "https://i.imgur.com/oVnDz3a.jpg"
+ttProjetos6: ""
+fbProjetos6: "https://www.facebook.com/amanda.santos.3954546"
+lkProjetos6: ""
+isProejtos6: "" 
+
+nomeProjetos7: "Amanda Tintino"
+cargoProjetos7: "Membro do Projeto Amitis" 
+descProjetos7: "26 anos, estudante de Química Tecnológica e Industrial. Possui experiência em pesquisa com Polímeros e atua identificando os potenciais de comunidades para o desenvolvimento de projetos inovadores."
+fotoProjetos7: "https://i.imgur.com/sPmDL17.jpg"
+ttProjetos7: ""
+fbProjetos7: "facebook.com/amandatintino"
+lkProjetos7: "https://www.linkedin.com/in/amandatintino/"
+isProejtos7: "instagram.com/amandatintino" 
+
+nomeProjetos8: "Ana Geórgia"
+cargoProjetos8: "Membro do Projeto Cromo Somos" 
+descProjetos8: "29 anos, estudante de Ciência da Computação, atualmente é bolsista PIBIC no Laboratório de Computação Científica e Análise Numérica – LaCCAN."
+fotoProjetos8: "https://i.imgur.com/bQJ5DFT.jpg"
+ttProjetos8: ""
+fbProjetos8: "https://www.facebook.com/anageorgiagama"
+lkProjetos8: "https://www.linkedin.com/in/anageorgia/"
+isProejtos8: "www.instagram.com/ana_georgia" 
+
+nomeProjetos9: "Anna Araújo"
+cargoProjetos9: "Membro do Projeto Cromo Somos" 
+descProjetos9: "22 anos, estudante de Engenharia Química. Acredita que cada um tem o potencial de mudar o mundo, e que pequenas atitudes fazem sim uma grande diferença"
+fotoProjetos9: "https://i.imgur.com/mECZkU2.jpg"
+ttProjetos9: ""
+fbProjetos9: "https://m.facebook.com/annac.araujo?ref=bookmarks"
+lkProjetos9: "https://www.linkedin.com/in/anna-carine-araújo-1ab608164/"
+isProejtos9: "https://www.instagram.com/araujo_anna/?hl=pt-br" 
+
+nomeProjetos10: "Giovanna Brandão"
+cargoProjetos10: "Membro do Projeto Amitis" 
+descProjetos10: "21 anos, estudante de Direito. Procura promover alternativas para o maior desenvolvimento do projetos. Acredita que para melhorar a realidade em que se vive é preciso ser um agente de mudança, participando ativamente na transformação."
+fotoProjetos10: "https://i.imgur.com/cQGKle0.jpg"
+ttProjetos10: ""
+fbProjetos10: "https://www.facebook.com/giovanna.brandao.754?ref=br_rs"
+lkProjetos10: ""
+isProejtos10: "https://www.instagram.com/giovanna_brandao/?hl=pt-br" 
+
+nomeProjetos11: "Gustavo Melo"
+cargoProjetos11: "Membro do Projeto Cromo Somos" 
+descProjetos11: "19 anos, estudante de Engenharia Civil, membro do diretório de assuntos acadêmicos do centro acadêmico de engenharia civil, membro do projeto Cromo Somos e Gestão de Pessoas."
+fotoProjetos11: "https://i.imgur.com/MPARKyc.jpg"
+ttProjetos11: ""
+fbProjetos11: "https://m.facebook.com/gustavo.cabral.79?ref=bookmarks"
+lkProjetos11: ""
+isProejtos11: "https://www.instagram.com/gucmelo/" 
+
+nomeProjetos12: "Laura Russo"
+cargoProjetos12: "Membro do Projeto Amtis" 
+descProjetos12: "24 anos, estudante de Bacharelado em Ciências Biológicas e Técnica Ambiental. Busca empoderar e levar esperança para as comunidades alagoanas."
+fotoProjetos12: "https://i.imgur.com/45uLplX.jpg"
+ttProjetos12: ""
+fbProjetos12: "https://www.facebook.com/LauraRussoDuarte"
+lkProjetos12: ""
+isProejtos12: "https://www.instagram.com/laurarussod" 
+
+nomeProjetos13: "Letícia Agra"
+cargoProjetos13: "Membro do Projeto Cromo Somos" 
+descProjetos13: "19 anos, estudante de Arquitetura e Urbanismo."
+fotoProjetos13: "https://i.imgur.com/uVMy9NY.jpg"
+ttProjetos13: ""
+fbProjetos13: "https://m.facebook.com/leticiasoares.agra"
+lkProjetos13: ""
+isProejtos13: "https://www.instagram.com/leticiasagra/" 
+
+nomeProjetos14: "Livia Alves"
+cargoProjetos14: "Membro do Projeto Cromo Somos" 
+descProjetos14: "22 anos, estudante de Engenharia Química. Acredita que pequenas ações provocam grandes mudanças."
+fotoProjetos14: "https://i.imgur.com/YxkQDmF.jpg"
+ttProjetos14: ""
+fbProjetos14: "https://www.facebook.com/livia.alves.336"
+lkProjetos14: ""
+isProejtos14: "https://www.instagram.com/livia_alves_s/" 
+
+nomeProjetos15: "Lívia Leite"
+cargoProjetos15: "Membro do Projeto Amitis" 
+descProjetos15: "22 anos, estudante de Engenharia Civil. Apaixonada por empreendedorismo e estratégia. Atua no desenvolvimento e empoderamento de comunidades."
+fotoProjetos15: "https://i.imgur.com/stYQGmS.jpg"
+ttProjetos15: ""
+fbProjetos15: "https://www.facebook.com/livia.leite.980"
+lkProjetos15: ""
+isProejtos15: "https://www.instagram.com/liviaaleite/" 
+
+nomeProjetos16: "Lucas Ferraz"
+cargoProjetos16: "Membro do Projeto Cromo Somos" 
+descProjetos16: "20 anos, estudante de administração. Busca pensar e desenvolver projetos inovadores que impactem a sociedade, e melhorem a vida das pessoas."
+fotoProjetos16: "https://imgur.com/9iV84Nt.jpg"
+ttProjetos16: ""
+fbProjetos16: "https://www.facebook.com/lucas.ferraz.1048"
+lkProjetos16: ""
+isProejtos16: "" 
+
+nomeProjetos17: "Nina Bernacchi"
+cargoProjetos17: "Membro do Projeto Amitis" 
+descProjetos17: "24 anos, estudante de Engenharia Química. Dedicada a criar um mundo melhor para todos por meio da ação empreendedora."
+fotoProjetos17: "https://i.imgur.com/Wg80mWR.jpg"
+ttProjetos17: ""
+fbProjetos17: "https://m.facebook.com/NinaBernacchi?ref=bookmarks"
+lkProjetos17: ""
+isProejtos17: "http://instagram.com/ninabsarmento" 
+
+nomeProjetos18: "Telma Wanderley"
+cargoProjetos18: "Membro do Projeto Amitis" 
+descProjetos18: "24 anos, estudante de Administração. Atua como estagiária na Procuradoria da República, facilitadora do programa Liderança 16 horas da Fundação Estudar e é apaixonada por empreendedorismo social."
+fotoProjetos18: "https://imgur.com/dW5UvZU.jpg"
+ttProjetos18: ""
+fbProjetos18: "https://www.facebook.com/telmaklarisse"
+lkProjetos18: "https://www.linkedin.com/in/telma-wanderley-b45a788a/"
+isProejtos18: "https://www.instagram.com/hashtelma/" 
+
+#Descrição Conselho Alumni
+
+nomeConselho1: "Andrey Palmeira"
+cargoConselho1: "Conselheiro de Projetos e Presidência" 
+descConselho1: "24 anos, estudante de Engenharia Civil e apaixonado pelo potencial de transformação do empreendedorismo, fez parte da Enactus UFAL por dois ciclos, é cofundador do Instituto Asteca, TreC – Treinamento; Comunicação e OPL Engenharia; Consultoria." 
+fotoConselho1: "https://i.imgur.com/rn5Nnwf.jpg"
+
+nomeConselho2: "Carlos André"
+cargoConselho2: "Conselheiro da Presidência" 
+descConselho2: "23 anos, engenheiro civil de formação e empreendedor de coração. Vê o empreendedorismo como ferramenta de transformação do mundo" 
+fotoConselho2: "https://i.imgur.com/rfqtO0S.jpg"
+
+nomeConselho3: "João Lucas Medeiros"
+cargoConselho3: "Conselheiro de Marketing e Relações Públicas" 
+descConselho3: "24 anos, estudante de Engenharia Química. Ingressou na Enactus UFAL no primeiro processo trainee, foi membro de Projetos, Parcerias e diretor de Parcerias. Bebo cerveja e tento mudar o mundo." 
+fotoConselho3: "https://i.imgur.com/acc8V3S.jpg"
+
+nomeConselho4: "Marcus Melo"
+cargoConselho4: "Conselheiro de Gestão de Pessoas" 
+descConselho4: "24 anos, estudante de Engenharia Química. Fez parte da fundação da Enactus Ufal, foi gerente de parcerias e diretor de Gestão de Pessoas. Motivado a mudar a realidade do Estado de Alagoas." 
+fotoConselho4: "https://i.imgur.com/QMJnpTV.jpg"
+ 
+nomeConselho5: "Matheus Mendonça"
+cargoConselho5: "Conselheiro de Projetos, Marketing e Relações Públicas" 
+descConselho5: "24 anos, designer e jardineiro. Atuou como membro no Projeto Viva, líder do Projeto Amitis e acredita no potencial transformador das pessoas." 
+fotoConselho5: "https://i.imgur.com/xh1cPcD.jpg"

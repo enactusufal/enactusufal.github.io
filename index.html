@@ -1,0 +1,155 @@
+---
+layout: landing-page
+---
+
+<!-- MISSÃO, VISÃO E VALORES -->
+<section id="one" class="wrapper style1">
+	<div class="container">
+	<h2 align="center">O Time Enactus UFAL</h2>
+	<h4 align="center">Somos um dos mais de 100 times da Enactus Brasil, e acreditamos que universitários têm a força para melhorar o mundo através da Ação Empreendedora.</h4>
+	<br>
+	<br>
+	 	<div class="row">
+	 		<div class="4u">
+                <section class="special">
+					<a class="image full"><img src="{{site.fotoMissao}}" alt="" /></a>
+					<h3>MISSÃO</h3>
+                    <p>{{site.missao}}</p>
+                </section>
+            </div>
+            <div class="4u">
+                <section class="special">
+					<a class="image full"><img src="{{site.fotoVisao}}" alt="" /></a>
+					<h3>VISÃO</h3>
+                    <p>{{site.visao}}</p>
+                </section>
+            </div>
+            <div class="4u">
+                <section class="special">
+					<a class="image full"><img src="{{site.fotoValores}}" alt="" /></a>
+					<h3>VALORES</h3>
+                    <p>{{site.valores}}</p>
+                </section>
+            </div>
+        </div>
+	</div>
+</section>
+
+<!-- CONTADORES -->
+<section>
+
+	<div id="projectFacts" class="sectionClass">
+	    <div class="fullWidth eight columns">
+	        <div class="projectFactsWrap ">
+	            <div class="item wow fadeInUpBig animated animated" data-number="2" style="visibility: visible;">
+	                <p id="number1" class="number">{{site.quantidadeDeProjetos}}</p>
+	                <span></span>
+	                <p>PROJETOS</p>
+	            </div>
+	            <div class="item wow fadeInUpBig animated animated" data-number="27" style="visibility: visible;">
+	                <p id="number2" class="number">{{site.quantidadeDeMembros}}</p>
+	                <span></span>
+	                <p>MEMBROS</p>
+	            </div>
+	            <div class="item wow fadeInUpBig animated animated" data-number="2300" style="visibility: visible;">
+	                <p id="number3" class="number">{{site.horasTrabalhadas}}</p>
+	                <span></span>
+	                <p>HORAS TRABALHADAS</p>
+	            </div>
+	            
+	        </div>
+	    </div>
+	</div>
+</section>
+
+<!-- PROJETOS -->
+<section id="two" class="wrapper style2">
+	<header class="major">
+		<h2>Nossos Projetos</h2>
+	</header>
+	<div class="container">
+		<div class="row">
+			<div class="6u">
+				<section class="special">
+					<a class="image fit"><img src="{{ site.baseurl }}/images/amitis/amitis-horta2.jpg" alt="" /></a>
+					<h3>{{site.nomeProjeto1}}</h3>
+					<br>
+					<p align="center">{{site.descResumidaProjeto1}}</p>
+					<ul class="actions">
+						<li><a href="amitis.html" class="button alt">Leia Mais</a></li>
+					</ul>
+				</section>
+			</div>
+			<div class="6u">
+				<section class="special">
+					<a class="image fit"><img src="{{site.fotoProjeto2}}" alt="" /></a>
+					<h3>{{site.nomeProjeto2}}</h3>
+					<br>
+					<p align="center">{{site.descResumidaProjeto2}}</p>
+					<ul class="actions">
+						<li><a href="cromosomos.html" class="button alt">Leia Mais</a></li>
+					</ul>
+				</section>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- PARCEIROS -->
+<section id="cta">
+	<header class="major" style="filter: none !important; -webkit-transform: translateZ(0) !important;" >
+		<h2 style="color: white">Parceiros</h2>
+	</header>
+
+	<div class="row" style="filter: none !important; -webkit-transform: translateZ(0) !important;">
+			<div class="6u">
+				<img class="image full" src="{{site.parceiro1}}"/>
+			</div>
+			<div class="6u">
+				<img class="image  full" src="{{site.parceiro2}}"/>
+			</div>
+	</div>
+
+</section>
+
+<!-- CONTATO -->
+<section id="contato">
+	<div class="wrapper style4 special container small">
+		<header class="major">
+        	<h2>Contato</h2>
+        	<p>Entre em contato com o time Enactus UFAL!</p>
+		</header>
+		<div class="content">
+			<form>
+				<div class="row half collapse-at-2">
+					<div class="6u">
+						<input type="text" name="name" placeholder="Nome" required="required" />
+					</div>
+					<div class="6u">
+						<input type="text" id="email" name="email" placeholder="Email" required="required" />
+					</div>
+				</div>
+				<br>
+				<div class="row half">
+					<div class="12u">
+						<input type="text" name="subject" id="subject"  placeholder="Assunto" required="required" />
+					</div>
+				</div>
+				<br>
+				<div class="row half">
+					<div class="12u">
+						<textarea name="message" id="message" placeholder="Mensagem" rows="7" required="required" ></textarea>
+					</div>
+				</div>
+				<br>
+				<div class="row">
+					<div class="12u">
+						<ul class="buttons" style="list-style-type:none">
+							<li><input type="button" class="special" onclick="enviar()" value="Enviar" /></li>
+						</ul>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</section>
